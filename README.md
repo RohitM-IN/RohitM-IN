@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to Rohit Mahajan's GitHub Profile 👋
-
-## About Me
+## About RohitM-IN
 
 Hey there! I'm Rohit Mahajan, a Software Developer currently working at Excellon Software Pvt. LTD. I have a knack for both frontend and backend technologies, specializing in Laravel, React, .NET (C#), Python, and database management.
 
