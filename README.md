@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 
 ## About RohitM-IN
 
-Hey there! I'm Rohit Mahajan, a Software Developer currently working at Excellon Software Pvt. LTD. I have a knack for both frontend and backend technologies, specializing in Laravel, React, .NET (C#), Python, and database management.
+Hey there! I'm Rohit Mahajan, a Software Developer currently working at Excellon Software Pvt. LTD. I have a knack for both frontend and backend technologies, specializing in Laravel, React, .NET (C#), Python, Docker, and database management.
 
 ## 🔭 I’m currently working on
 
-- **DevExpress Projects at Excellon Software Pvt. LTD**: Developing robust solutions using .NET MVC, DevExpress, and more.
+- **Excellon Software Pvt. LTD Projects**: Developing robust solutions using .NET MVC, DevExpress, and more. I’m also working on a React-based UI for a Document Management System (DMS), contributing to the upgrade of the Smart Client (a Windows application), rearchitecting our existing APIs to enhance speed with plans to integrate gRPC, and assisting in managing the DevOps CI/CD pipeline and multiple Azure servers.
 - **DBSyncKit**: Check out the organization [here](https://github.com/DbSyncKit), where I contributed to DBSyncKit, a project aimed at efficient database synchronization.
 - **Discord Bot in JavaScript (Azooid)**: I've dabbled in creating a Discord bot using JavaScript. Feel free to explore Azooid!
 
@@ -32,6 +32,7 @@ Continuously enhancing my skills in .NET MVC, DevExpress, and exploring new adva
 - Anything related to frontend or backend development.
 - Database management and optimization.
 - Logical thinking in programming.
+- DevOps, CI/CD pipelines, Docker, and managing Azure servers.
 
 ## 📫 How to reach me
 
